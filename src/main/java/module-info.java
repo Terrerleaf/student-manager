@@ -3,6 +3,6 @@ module com.example.studentmanagert {
     requires javafx.fxml;
 
 
-    opens com.example.studentmanagert to javafx.fxml;
-    exports com.example.studentmanagert;
+    opens loose.oose.fis.lab.student.manager to javafx.fxml;
+    exports loose.oose.fis.lab.student.manager;
 }
